@@ -25,5 +25,5 @@ A maze game I made using an Arduino kit. I used the LCD screen, joystick, 7-seg 
 <p>Win screen for when players reach the goal, this is on a timer for 5 seconds and then leads back to the start screen.</p>
 
 <header> VIDEO OF MAZE GAME </header>
-[<img src="/Pictures/MazeVideo.PNG?raw=true" height="350">](https://youtu.be/guqRGLP3Nfc?si=mFStjXwDQrZWz1NN)
+<img src="/Pictures/MazeVideo.PNG?raw=true" height="350">(https://youtu.be/guqRGLP3Nfc?si=mFStjXwDQrZWz1NN)
 <p>Click on the picture above to watch a video of my game! The code for the project can also be found in this repo!</p>
